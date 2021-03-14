@@ -10,7 +10,7 @@ Daily work involves backend systems and data platforms using Java, Spring, Hiber
 
 📚 Sometimes end up writing stuff - [Medium](https://medium.com/@compscikaran)
 
-Get in Touch with me - [📧](mailto:gkaran184@gmail.com)
+# Get in Touch [📧](mailto:gkaran184@gmail.com)
 
 
 <!---
