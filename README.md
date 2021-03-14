@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @compscikaran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👦🏻 Hi, I am Karan Gupta
+
+Software engineer by profession. practising my craft @ [UBS](https://ubs.com)
+
+🎪 Find more details about me - [Linkedin](https://www.linkedin.com/in/compscikaran/)
+
+💻 Playing around with code - [Github](https://github.com/compscikaran)
+
+📚 Sometimes end up writing stuff - [Medium](https://medium.com/@compscikaran)
+
 
 <!---
 compscikaran/compscikaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
