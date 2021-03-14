@@ -2,6 +2,8 @@
 
 Software engineer by profession. practising my craft @ [UBS](https://ubs.com)
 
+Daily work involves backend systems and data platforms using Java, Spring, Hibernate, Spark etc.
+
 🎪 Find more details about me - [Linkedin](https://www.linkedin.com/in/compscikaran/)
 
 💻 Playing around with code - [Github](https://github.com/compscikaran)
