@@ -10,6 +10,8 @@ Daily work involves backend systems and data platforms using Java, Spring, Hiber
 
 📚 Sometimes end up writing stuff - [Medium](https://medium.com/@compscikaran)
 
+Get in Touch with me - [📧](mailto:gkaran184@gmail.com)
+
 
 <!---
 compscikaran/compscikaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
