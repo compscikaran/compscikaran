@@ -6,9 +6,7 @@ Daily work involves backend systems and data platforms using Java, Spring, Hiber
 
 🎪 Find more details about me - [Linkedin](https://www.linkedin.com/in/compscikaran/)
 
-📚 Sometimes end up writing stuff - [Medium](https://medium.com/@compscikaran)
-
-# Get in Touch [📧](mailto:gkaran184@gmail.com)
+Get in Touch [📧](mailto:gkaran184@gmail.com)
 
 
 <!---
