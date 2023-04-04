@@ -2,7 +2,10 @@
 
 Software engineer by profession. practising my craft  🛠️ @ [UBS](https://ubs.com)
 
-I deal with complex technical challenges and functional domain on a day to day basis. Been interested in programming since my childhood and living my dream. Have a vast array of experience in different technologies such as Java, Spring, Hibernate, JS, React, Angular. I take a keen interest in Software design & architecture and my philosophy is that - Simplicity is the ultimate sophistication. I despise over-engineering and prefer solutions that fit the problem.
+I deal with complex technical challenges and functional domain on a day to day basis. Been interested in programming since my childhood and now I get paid to live my dream everyday. Have a vast array of experience in different technologies such as Java, Spring, Hibernate, JS, React, Kafka. I take a keen interest in software design & architecture and my philosophy is to avoid over-engineering and prefer solutions that fit the problem.
+
+"An idiot admires complexity, a genius admires simplicity"
+-- Terry Davis
 
 Follow me - [Linkedin](https://www.linkedin.com/in/compscikaran/)
 
