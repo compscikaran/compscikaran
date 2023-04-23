@@ -8,19 +8,17 @@ I deal with complex technical challenges and functional domain on a day to day b
 -- Terry Davis
 
 
-## Things that changed my perspective
+## My Recommendations
 
-[Sofwtare Architecture Books](./Books.md)
+🔉[Conference Talks](./Talks.md)
 
-[Conference Talks](./Talks.md)
-
-[Other Books](./Books2.md)
+📖 [Books](./Books.md)
 
 ## Reach out to me
 
-[https://www.linkedin.com/in/compscikaran/](https://www.linkedin.com/in/compscikaran/)
+🇮🇳 [https://www.linkedin.com/in/compscikaran/](https://www.linkedin.com/in/compscikaran/)
 
-[https://twitter.com/compscikaran](https://twitter.com/compscikaran)
+🐦 [https://twitter.com/compscikaran](https://twitter.com/compscikaran)
 
 
 
