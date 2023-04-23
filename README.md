@@ -1,15 +1,28 @@
 # 👦🏻 Hi, I am Karan Gupta
 
-Software engineer by profession. practicing my craft  🛠️ @ [UBS](https://ubs.com)
+## Engineering | Software Architecture | UX
 
-I deal with complex technical challenges and functional domain on a day to day basis. Been interested in programming since my childhood and now I get paid to live my dream everyday. Have a vast array of experience in different technologies such as Java, Spring, Hibernate, JavaScript, React, Redux, Apache Spark, Apache Kafka, Python. I take a keen interest in software design & architecture and my philosophy is to avoid over-engineering and prefer solutions that fit the problem.
+I deal with complex technical challenges and functional domain on a day to day basis. Been interested in programming since my childhood and now I get paid to live my dream everyday. I take a keen interest in software design & architecture and my philosophy is to avoid over-engineering and prefer solutions that fit the problem.
 
 "An idiot admires complexity, a genius admires simplicity"
 -- Terry Davis
 
-Follow me - [Linkedin](https://www.linkedin.com/in/compscikaran/)
 
-Get in Touch [📧](mailto:gkaran184@gmail.com)
+## Things that changed my perspective
+
+[Sofwtare Architecture Books](./Books.md)
+
+[Conference Talks](./Talks.md)
+
+[Other Books](./Books2.md)
+
+## Reach out to me
+
+[https://www.linkedin.com/in/compscikaran/](https://www.linkedin.com/in/compscikaran/)
+
+[https://twitter.com/compscikaran](https://twitter.com/compscikaran)
+
+
 
 <!---
 compscikaran/compscikaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
