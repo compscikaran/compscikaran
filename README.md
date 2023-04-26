@@ -7,13 +7,6 @@ I deal with complex technical challenges and functional domain on a day to day b
 "An idiot admires complexity, a genius admires simplicity"
 -- Terry Davis
 
-
-## My Recommendations
-
-🔉[Conference Talks](./Talks.md)
-
-📖 [Books](./Books.md)
-
 ## Reach out to me
 
 🇮🇳 [https://www.linkedin.com/in/compscikaran/](https://www.linkedin.com/in/compscikaran/)
