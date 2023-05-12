@@ -9,9 +9,9 @@ I deal with complex technical challenges and functional domain on a day to day b
 
 ## Reach out to me
 
-🇮🇳 [https://www.linkedin.com/in/compscikaran/](https://www.linkedin.com/in/compscikaran/)
+[https://www.linkedin.com/in/compscikaran/](https://www.linkedin.com/in/compscikaran/)
 
-🐦 [https://twitter.com/compscikaran](https://twitter.com/compscikaran)
+[https://twitter.com/compscikaran](https://twitter.com/compscikaran)
 
 
 
