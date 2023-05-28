@@ -15,7 +15,7 @@ I know some Java, JavaScript, Git and Linux
 
 [https://twitter.com/compscikaran](https://twitter.com/compscikaran)
 
-
+[https://medium.com/@compscikaran](https://medium.com/@compscikaran)
 
 <!---
 compscikaran/compscikaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
