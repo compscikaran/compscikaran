@@ -4,7 +4,7 @@
 
 I deal with complex technical challenges and functional domain on a day to day basis. Been interested in programming since my childhood and now I get paid to live my dream everyday. I take a keen interest in software design & architecture and my philosophy is to avoid over-engineering and prefer solutions that fit the problem.
 
-I know some Java, JavaScript, Git and Linux
+You will usually find me working on Java / Spring or JavaScript / React stuff.
 
 "An idiot admires complexity, a genius admires simplicity"
 -- Terry Davis
