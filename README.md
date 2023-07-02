@@ -9,14 +9,6 @@ You will usually find me working on Java / Spring or JavaScript / React stuff.
 "An idiot admires complexity, a genius admires simplicity"
 -- Terry Davis
 
-## Reach out to me
-
-[https://www.linkedin.com/in/compscikaran/](https://www.linkedin.com/in/compscikaran/)
-
-[https://twitter.com/compscikaran](https://twitter.com/compscikaran)
-
-[https://medium.com/@compscikaran](https://medium.com/@compscikaran)
-
 <!---
 compscikaran/compscikaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
