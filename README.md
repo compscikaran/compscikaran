@@ -1,10 +1,9 @@
 # 👦🏻 Hi, I am Karan Gupta
 
-## Engineering | Software Design | UX
+## Software Engineering | UX | Software Design
 
-I deal with complex technical challenges and functional domain on a day to day basis. Been interested in programming since my childhood and now I get paid to live my dream everyday. I take a keen interest in software design & architecture and my philosophy is to avoid over-engineering and prefer solutions that fit the problem.
-
-You will usually find me working on Java / Spring or JavaScript / React stuff.
+I deal with complex technical challenges and functional domain on a day to day basis. Been interested in programming since my childhood and now I get paid to live my dream everyday. Always willing to listen and explore alternate approaches and come up with pragmatic solutions. I think simplicity and moderation are underrated. I am opinionated and biased when it comes to design philosophy but I am also willing to change my positions if I see solid evidence / arguments to the contrary.
+I believe that there is an aspect of artistry and craftsmanship to my profession regardless of whether what you are working on is large or small, complex or simple.
 
 "An idiot admires complexity, a genius admires simplicity"
 -- Terry Davis
