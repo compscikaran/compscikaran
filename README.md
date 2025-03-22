@@ -2,10 +2,10 @@
 
 I am just trying to build software that serves a purpose and does something useful.
 
+**Playlists**
+
 Software Engineering is not just a discipline, its the amalgamation of development, design, mindset and culture.
 I believe in learning from others so below are few curated conference talks and podcasts which I found to be very insightful
-
-**Playlists**
 
 [Software Design Playlist](https://www.youtube.com/playlist?list=PLR9ElWHuX_l-3oxqN6l-AnRaGUEbTfmz9) 
 
