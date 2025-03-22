@@ -1,6 +1,7 @@
 # 👦🏻 Hi, I am Karan Gupta
 
 I am just trying to build software that serves a purpose and does something useful.
+I write occassionally with the expectation that absolutely no-one will read my blog - [Engineering Madness](https://engineeringmadness.dev/)
 
 **Playlists**
 
