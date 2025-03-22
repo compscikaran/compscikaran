@@ -9,7 +9,7 @@ I believe in learning from others so below are few curated conference talks and 
 
 [Platform Engineering Playlist](https://www.youtube.com/playlist?list=PLR9ElWHuX_l8DJy0JY2vzzKcTKIJnAf5Z)
 
-[Staff Engineer Career Progression Playlist](https://www.youtube.com/playlist?list=PLR9ElWHuX_l_y4vchl8GdET2fBTDKfbe1)
+[Staff Engineer Career Playlist](https://www.youtube.com/playlist?list=PLR9ElWHuX_l_y4vchl8GdET2fBTDKfbe1)
 
 [Generative AI and LLMs](https://www.youtube.com/playlist?list=PLR9ElWHuX_l95JxJ4Hw2LDoWqAVbrU8Ev)
 
